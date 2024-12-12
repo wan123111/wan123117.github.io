@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wan123117.github.io/static/css/main.bcdb7a11.css",
+    "main.js": "/wan123117.github.io/static/js/main.89c37a1e.js",
+    "static/js/151.f0c8e4eb.chunk.js": "/wan123117.github.io/static/js/151.f0c8e4eb.chunk.js",
+    "index.html": "/wan123117.github.io/index.html",
+    "main.bcdb7a11.css.map": "/wan123117.github.io/static/css/main.bcdb7a11.css.map",
+    "main.89c37a1e.js.map": "/wan123117.github.io/static/js/main.89c37a1e.js.map",
+    "151.f0c8e4eb.chunk.js.map": "/wan123117.github.io/static/js/151.f0c8e4eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcdb7a11.css",
+    "static/js/main.89c37a1e.js"
+  ]
+}
